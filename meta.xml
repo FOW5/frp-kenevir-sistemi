@@ -1,0 +1,6 @@
+<meta>
+
+<script src="kenevir.lua" type="server" />
+<script src="ayar.lua" type="client" />
+
+</meta>
